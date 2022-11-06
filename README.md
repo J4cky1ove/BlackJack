@@ -1,1 +1,2 @@
 # BlackJack
+### Programming language: Python
